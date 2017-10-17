@@ -17,6 +17,6 @@ git push origin master
 
 clear
 
-echo "MINVERSE UPLOAD COMPLETE!" | pv -qL 10
+echo "MINIVERSE UPLOAD COMPLETE!" | pv -qL 10
 
 sleep 0.5
