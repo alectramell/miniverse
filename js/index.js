@@ -18,3 +18,8 @@ function goExit() {
 function goBack() {
     window.history.back();
 }
+
+function exitGame() {
+	window.open('','_parent','');
+	window.close();
+}
