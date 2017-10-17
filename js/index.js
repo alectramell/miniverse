@@ -10,3 +10,7 @@ function goLab() {
 function goHome() {
 	top.window.location.href='index.html';
 }
+
+function goExit() {
+	top.window.location.href='exit.html';
+}
