@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=MiniVerse
+Name[en_US]=MiniVerse
+Type=Application
+Icon=https://raw.githubusercontent.com/alectramell/miniverse/master/img/icon.svg
+Exec=google-chrome https://raw.githubusercontent.com/alectramell/miniverse/master/index.html
+Terminal=false
