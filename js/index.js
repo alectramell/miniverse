@@ -3,14 +3,10 @@ function openHome() {
 	return false;
 }
 
-function openLab() {
-	var pages = ['lab.html','home.html']
-
-	document.getElementById('mainFrame').src = pages[0];
+function goLab() {
+	window.location.href='lab.html';
 }
 
-function openGrass() {
-	var pages = ['lab.html','home.html']
-
-	document.getElementById('mainFrame').src = pages[1];
+function goHome() {
+	window.location.href='index.html';
 }
