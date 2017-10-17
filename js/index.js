@@ -14,3 +14,7 @@ function goHome() {
 function goExit() {
 	top.window.location.href='exit.html';
 }
+
+function goBack() {
+    window.history.back();
+}
