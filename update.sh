@@ -2,6 +2,14 @@
 
 clear
 
+rm miniverse.zip
+
+clear
+
+zip -r miniverse.zip *.html *.md *.json *.txt js img fonts
+
+clear
+
 git add *.md
 git add *.sh
 git add *.txt
