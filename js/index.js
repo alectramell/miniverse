@@ -4,9 +4,9 @@ function openHome() {
 }
 
 function goLab() {
-	window.location.href='lab.html';
+	top.window.location.href='lab.html';
 }
 
 function goHome() {
-	window.location.href='index.html';
+	top.window.location.href='index.html';
 }
