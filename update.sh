@@ -17,6 +17,7 @@ git add *.json
 git add *.html
 git add *.desktop
 git add *.zip
+git add *.apk
 git add fonts
 git add img
 git add js
