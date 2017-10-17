@@ -1,5 +1,5 @@
 function openHome() {
-	window.open('index.html','MiniVerse','nonresizable,height=530,width=720');
+	window.open('index.html','MiniVerse','nonresizable,height=645,width=1041');
 	return false;
 }
 

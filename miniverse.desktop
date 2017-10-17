@@ -2,6 +2,6 @@
 Name=MiniVerse
 Name[en_US]=MiniVerse
 Type=Application
-Icon=https://raw.githubusercontent.com/alectramell/miniverse/master/img/icon.svg
-Exec=google-chrome https://raw.githubusercontent.com/alectramell/miniverse/master/index.html
+Icon=/home/alectramell/Desktop/miniverse/img/icon.svg
+Exec=google-chrome /home/alectramell/Desktop/miniverse/app.html
 Terminal=false
