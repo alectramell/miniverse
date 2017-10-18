@@ -6,7 +6,7 @@ rm miniverse.zip
 
 clear
 
-zip -r miniverse.zip *.html *.md *.json *.txt js img fonts
+zip -r miniverse.zip *.html *.md *.json *.txt *.sh *.desktop js img fonts
 
 clear
 
@@ -17,7 +17,6 @@ git add *.json
 git add *.html
 git add *.desktop
 git add *.zip
-git add *.apk
 git add fonts
 git add img
 git add js
